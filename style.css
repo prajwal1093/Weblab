@@ -1,0 +1,29 @@
+student{
+color:red;
+}
+
+usn{
+	display:block;
+	color:navy;
+}
+
+name{
+	display:block;
+	color:green;
+}
+
+branch{
+	display:block;
+	color:yellow;
+}
+
+college{
+	display:block;
+	color:purple;
+}
+
+students{
+	background-color:grey;
+    max-width:30%;
+	margin:auto;
+}
